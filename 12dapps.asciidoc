@@ -1,4 +1,6 @@
 [[decentralized_applications_chap]]
+[#Decentralized Applications (DApps)]
+= Decentralized Applications (DApps)
 == Decentralized Applications (DApps)
 
 ((("DApps (decentralized applications)", id="ix_12dapps-asciidoc0", range="startofrange")))In this chapter we will explore the world of _decentralized applications_, or _DApps_. From the early days of Ethereum, the founders' vision was much broader than "smart contracts": ((("web3")))no less than reinventing the web and creating a new world of DApps, aptly called _web3_. Smart contracts are a way to decentralize the controlling logic and payment functions of applications. Web3 DApps are about decentralizing all other aspects of an application: storage, messaging, naming, etc. (see <<image_web3_suite>>).

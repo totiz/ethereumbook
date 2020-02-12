@@ -1,5 +1,7 @@
 [appendix]
 [[ethereum_fork_history]]
+[#Ethereum Fork History]
+= Ethereum Fork History
 == Ethereum Fork History
 ((("Ethereum (generally)","fork history", id="ix_appdx-forks-history-asciidoc0", range="startofrange")))((("forks", seealso="hard forks", id="ix_appdx-forks-history-asciidoc1", range="startofrange")))((("hard forks", id="ix_appdx-forks-history-asciidoc2", range="startofrange")))Most hard forks are planned as part of an upgrade roadmap and consist of updates that the community generally agrees to (i.e., there is social consensus). However, some hard forks lack consensus, which leads to multiple distinct blockchains. The events that led to the Ethereum/Ethereum Classic split are one such case, and are discussed in this appendix.
 

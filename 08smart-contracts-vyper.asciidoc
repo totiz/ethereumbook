@@ -1,4 +1,6 @@
 [[vyper_chap]]
+[#Smart Contracts and Vyper]
+= Smart Contracts and Vyper
 == Smart Contracts and Vyper
 
 ((("Vyper", id="ix_08smart-contracts-vyper-asciidoc0", range="startofrange")))Vyper is an experimental, contract-oriented programming language for the Ethereum Virtual Machine that strives to provide superior auditability, by making it easier for developers to produce intelligible code. In fact, one of the principles of Vyper is to make it virtually impossible for developers to write misleading code.

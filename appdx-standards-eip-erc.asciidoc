@@ -1,5 +1,7 @@
 [appendix]
 [[ethereum_standards]]
+[#Ethereum Standards]
+= Ethereum Standards
 == Ethereum Standards
 
 [[eips]]

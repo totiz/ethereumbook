@@ -1,5 +1,7 @@
 [appendix]
 [[evm_opcodes]]
+[#Ethereum EVM Opcodes and Gas Consumption]
+= Ethereum EVM Opcodes and Gas Consumption
 == Ethereum EVM Opcodes and Gas Consumption
 
 ((("EVM (Ethereum Virtual Machine)","opcodes and gas consumption")))((("gas","EVM opcodes and gas consumption")))This appendix is based on the consolidation work done by the people of https://github.com/trailofbits/evm-opcodes as a reference for Ethereum VM (EVM) opcodes and instruction information licensed under the http://bit.ly/2zfrv0b[Apache License 2.0].

@@ -1,5 +1,5 @@
 = Mastering Ethereum
-:author: Andreas M. Antonopoulos, Gavin Wood
+KULAP, Github
 :doctype: book
 :toc:
 :toclevels: 6
@@ -7,6 +7,7 @@
 :icons: font
 :pdf-page-size: 8in x 9in
 :pdf-style: misc/theme.yml
+:front-cover-image: image:images/cover.png[Front Cover,1050,1600]
 
 == LICENSE
 

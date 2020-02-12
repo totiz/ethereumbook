@@ -1,4 +1,6 @@
 [[wallets_chapter]]
+[#Wallets]
+= Wallets
 == Wallets
 
 ((("wallets", id="ix_05wallets-asciidoc0", range="startofrange")))The word "wallet" is used to describe a few different things in Ethereum.

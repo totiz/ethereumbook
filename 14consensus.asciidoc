@@ -1,4 +1,6 @@
 [[consensus]]
+[#Consensus]
+= Consensus
 == Consensus
 
 ((("consensus", id="ix_14consensus-asciidoc0", range="startofrange")))Throughout this book we have talked about "consensus rules&#x201d;&#x2014;the rules that everyone must agree to for the system to operate in a decentralized, yet deterministic, manner. In computer science, the term _consensus_ predates blockchains and is related to the broader problem of synchronizing state in distributed systems, such that different participants in a distributed system all (eventually) agree on a single system-wide state. This is called "reaching consensus."

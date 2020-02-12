@@ -1,5 +1,7 @@
 [role="pagenumrestart"]
 [[whatis_chapter]]
+[#What Is Ethereum]
+= What Is Ethereum
 == What Is Ethereum?
 
 ((("Ethereum (generally)","about", id="ix_01what-is-asciidoc0", range="startofrange")))Ethereum ((("world computer, Ethereum as")))is often described as "the world computer.&#x201d; But what does that mean? Let's start with a computer science–focused description, and then try to decipher that with a more practical analysis of Ethereum's capabilities and characteristics, while comparing it to Bitcoin and other decentralized information exchange platforms (or "blockchains" for short).

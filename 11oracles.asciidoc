@@ -1,4 +1,6 @@
 [[oracles_chap]]
+[#Oracles]
+= Oracles
 == Oracles
 
 ((("oracles", id="ix_11oracles-asciidoc0", range="startofrange")))In this chapter we discuss _oracles_, which are systems that can provide external data sources to Ethereum smart contracts. The term "oracle" comes from Greek mythology, where it referred to a person in communication with the gods who could see visions of the future. In the context of blockchains, an oracle is a system that can answer questions that are external to Ethereum. ((("trustless systems", seealso="oracles")))Ideally oracles are systems that are _trustless_, meaning that they do not need to be trusted because they operate on decentralized principles.

@@ -1,4 +1,6 @@
 [[ethereum_clients_chapter]]
+[#Ethereum Clients]
+= Ethereum Clients
 == Ethereum Clients
 
 ((("clients, Ethereum", id="ix_03clients-asciidoc0", range="startofrange")))An Ethereum client is a software application that implements the Ethereum specification and communicates over the peer-to-peer network with other Ethereum clients. Different Ethereum clients _interoperate_ if they comply with the reference specification and the standardized communications protocols. While these different clients are implemented by different teams and in different programming languages, they all "speak" the same protocol and follow the same rules. As such, they can all be used to operate and interact with the same Ethereum network.

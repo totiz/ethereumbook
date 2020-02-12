@@ -1,4 +1,6 @@
 [[keys_addresses]]
+[#Cryptography]
+= Cryptography
 == Cryptography
 
 ((("cryptography", id="ix_04keys-addresses-asciidoc0", range="startofrange")))One of Ethereum's foundational technologies is ((("cryptography","defined")))_cryptography_, which is a branch of mathematics used extensively in computer security. Cryptography means "secret writing" in Greek, but the study of cryptography encompasses more than just secret writing, which is referred to as _encryption_. Cryptography can, for example, also be used to prove knowledge of a secret without revealing that secret (e.g., with a digital signature), or to prove the authenticity of data (e.g., with digital fingerprints, also known as "hashes"). These types of cryptographic proofs are mathematical tools critical to the operation of the Ethereum platform (and, indeed, all blockchain systems), and are also extensively used in Ethereum applications. ((("encryption", seealso="keys and addresses")))

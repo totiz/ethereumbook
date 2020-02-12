@@ -1,5 +1,7 @@
 [appendix]
 [[web3js_tutorial]]
+[#web3.js Tutorial]
+= web3.js Tutorial
 == web3.js Tutorial
 
 === Description
